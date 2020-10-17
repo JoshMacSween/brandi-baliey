@@ -18,10 +18,16 @@ code {
   padding-left: 10%;
   padding-top: 1em;
   font-size: medium;
+  padding-bottom: 1em;
 }
 
-.brandiPlayer {
+.grasswood {
   width: 75%;
   padding-left: 25%;
   border-radius: 3px;
+  padding-bottom: 1em;
+}
+
+p {
+  font-weight: bold;
 }
